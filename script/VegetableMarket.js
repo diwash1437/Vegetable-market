@@ -86,86 +86,86 @@ const lunch = [
 },
 {
   japaneseName: '椎茸　１Ｐ　８入 ',
-  EnglishName :  'Yellow pickles',
+  EnglishName :  'Shiitake mushrooms – 1 pack (contains 8 pieces)',
   imageName: './image/vegetableMarket/15.png'
 
 },
 {
   japaneseName: 'チャービル ',
-  EnglishName :  'Beef tongue with yuzu pepper',
+  EnglishName :  'Chābiru',
   imageName: './image/vegetableMarket/16.png'
 
 },
 {
   japaneseName: '椎茸　１Ｐ　６入 ',
-  EnglishName :  'Beef tongue 1/8 lemon',
+  EnglishName :  'Shiitake mushrooms – 1 pack (contains 6 pieces)',
   imageName: './image/vegetableMarket/17.png'
 
 },
 {
   japaneseName: '舞茸　1Ｐ ',
-  EnglishName :  'Steak fries',
+  EnglishName :  'Maitake mushrooms – 1 pack',
   imageName: './image/vegetableMarket/18.png'
 
 },
 {
   japaneseName: 'キャベツ　個 ',
-  EnglishName :  'Steak pan',
+  EnglishName :  'Cabbage – piece',
   imageName: './image/vegetableMarket/19.png'
 
 },
 {
   japaneseName: 'レモン　個 ',
-  EnglishName :  'Steak soup',
+  EnglishName :  'Lemon – piece',
   imageName: './image/vegetableMarket/20.png'
 
 },
 {
   japaneseName: 'エリンギ ２～３本入　１Ｐ ',
-  EnglishName :  'Donabe hamburger',
+  EnglishName :  'Eringi 2–3 hon iri 1 P',
   imageName: './image/vegetableMarket/21.png'
 
 },
 {
   japaneseName: 'ミニトマト　１Ｐ ',
-  EnglishName :  'Donabe hamburger with vegetables',
+  EnglishName :  'Mini tomato 1 P (contain 1 pack)',
   imageName: './image/vegetableMarket/22.png'
 
 },
 {
   japaneseName: '緑　ミニトマト　１Ｐ ',
-  EnglishName :  'Donabe Hamburger sauce',
+  EnglishName :  'Mini tomato 1 P (contain 1 pack)',
   imageName: './image/vegetableMarket/23.png'
 
 },
 {
   japaneseName: '大根　本 ',
-  EnglishName :  'Beef tongue stew (sikako chaina)',
+  EnglishName :  'Daikon 1 hon (contain 1 piece)',
   imageName: './image/vegetableMarket/24.png'
 
 },
 {
   japaneseName: '茄子　５本入',
-  EnglishName :  'Nasu 6 set come',
+  EnglishName :  'Nasu 1 P (contain 5 hon(5 piece)',
   imageName: './image/vegetableMarket/25.png'
 
 },
 {
   japaneseName: '白葱　１束　中国 ',
-  EnglishName :  'Trimmings',
+  EnglishName :  'Shiro-negi 1 taba (contain 1 bunch) / White leek / Green onion 1 bunch – China',
   imageName: './image/vegetableMarket/26.png',
-  anotherImageName: '/image/vegetableMarket/26.png'
+  
 
 },
 {
   japaneseName: '人参　中国　Kg',
-  EnglishName :  'Trimmings sauce (fried potato ko tala)',
+  EnglishName :  'Ninjin (contain per Kg) / Carrot (per Kg) – China',
   imageName: '/image/vegetableMarket/27.png'
 
 },
 {
   japaneseName: 'ズッキーニ　本 ',
-  EnglishName :  'Keema curry',
+  EnglishName :  'Zukkīni 1 hon (contain 1 piece) / Zucchini 1 piece',
   imageName: '/image/vegetableMarket/28.png'
 
 },
@@ -632,4 +632,5 @@ lunch.forEach((lunch)=>{
 
 
 document.querySelector('.js-lunch-check').innerHTML= html;
+
 

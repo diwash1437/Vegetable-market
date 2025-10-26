@@ -21,7 +21,7 @@ const lunch = [
   japaneseName: '水菜　１Ｐ ',
   EnglishName :  'Bean sprout and onion set',
   imageName: './image/vegetableMarket/4.png',
-  anotherImageName: '/image/vegetableMarket/4.png'
+  
 
 },
 {
@@ -628,6 +628,7 @@ lunch.forEach((lunch)=>{
       <td><img src="${lunch.anotherImageName}" alt="Image 2"></td>
     </tr>`
 })
+
 
 
 document.querySelector('.js-lunch-check').innerHTML= html;

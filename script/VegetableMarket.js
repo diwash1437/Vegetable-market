@@ -625,10 +625,11 @@ lunch.forEach((lunch)=>{
       <td>${lunch.japaneseName}</td>
       <td>${lunch.EnglishName}</td>
       <td><img src="${lunch.imageName}" alt="Image 1"></td>
-      <td><img src="${lunch.anotherImageName}" alt="Image 2"></td>
+    
     </tr>`
 })
 
 
 
 document.querySelector('.js-lunch-check').innerHTML= html;
+

@@ -160,90 +160,90 @@ const lunch = [
 {
   japaneseName: '人参　中国　Kg',
   EnglishName :  'Ninjin (contain per Kg) / Carrot (per Kg) – China',
-  imageName: '/image/vegetableMarket/27.png'
+  imageName: './image/vegetableMarket/27.png'
 
 },
 {
   japaneseName: 'ズッキーニ　本 ',
   EnglishName :  'Zukkīni 1 hon (contain 1 piece) / Zucchini 1 piece',
-  imageName: '/image/vegetableMarket/28.png'
+  imageName: './image/vegetableMarket/28.png'
 
 },
 {
   japaneseName: 'ニラ　１束 ',
   EnglishName :  'Minced cutlet',
-  imageName: '/image/vegetableMarket/29.png'
+  imageName: './image/vegetableMarket/29.png'
 
 },
 {
   japaneseName: 'アンディーブ　個 ',
   EnglishName :  'Croquette (main deep fridge ma cha)',
-  imageName: '/image/vegetableMarket/30.png'
+  imageName: './image/vegetableMarket/30.png'
 
 },
 {
   japaneseName: 'れんこん　Kg',
   EnglishName :  'Minced cutlet, croquette sauce',
-  imageName: '/image/vegetableMarket/31.png'
+  imageName: './image/vegetableMarket/31.png'
 
 },
 {
   japaneseName: 'アボカド　個 ',
   EnglishName :  'Avacado',
-  imageName: '/image/vegetableMarket/32.png'
+  imageName: './image/vegetableMarket/32.png'
 
 },
 {
   japaneseName: '紅心大根　個 ',
   EnglishName :  'Salt',
-  imageName: '/image/vegetableMarket/33.png'
+  imageName: './image/vegetableMarket/33.png'
 
 },
 {
   japaneseName: 'エシャロット　１Ｐ ',
   EnglishName :  'Onion mitho wala',
-  imageName: '/image/vegetableMarket/34.png'
+  imageName: './image/vegetableMarket/34.png'
 
 },
 {
   japaneseName: 'レッドキャベツ　個 ',
   EnglishName :  'Bento mashed potatoes',
-  imageName: '/image/vegetableMarket/35.png'
+  imageName: './image/vegetableMarket/35.png'
 
 },
 {
   japaneseName: '男爵芋 ｋｇ',
   EnglishName :  'Makanai potato',
-  imageName: '/image/vegetableMarket/36.png'
+  imageName: './image/vegetableMarket/36.png'
 
 },
 {
   japaneseName: 'むきにんにく 中国　500ｇ ',
   EnglishName :  'Garlic',
-  imageName: '/image/vegetableMarket/37.png'
+  imageName: './image/vegetableMarket/37.png'
 
 },
 {
   japaneseName: 'ロメインレタス　個 ',
   EnglishName :  'Banya Kawdar ko lagi sag',
-  imageName: '/image/vegetableMarket/banyakawdarsag.png'
+  imageName: './image/vegetableMarket/banyakawdarsag.png'
 
 },
 {
     japaneseName: '白菜　1個 ',
     EnglishName: '',
-    imageName: '/image/vegetableMarket/38.png'
+    imageName: './image/vegetableMarket/38.png'
 },
 {
   japaneseName: 'ヤングコーン ',
   EnglishName :  'Banya Kawdar ko lagi sag',
-  imageName: '/image/vegetableMarket/39.png'
+  imageName: './image/vegetableMarket/39.png'
 
 },
 {
   japaneseName: 'トレビス　個 ',
   EnglishName :  'Banya Kawdar ko lagi sag',
-  imageName: '/image/vegetableMarket/40.png'
+  imageName: './image/vegetableMarket/40.png'
 
 },
 {
@@ -268,7 +268,7 @@ const lunch = [
 {
   japaneseName: '黄　ミニトマト　１Ｐ NEW',
   EnglishName :  'SODNE 2TA YELLOW SYANO TOMATO',
-  imageName: '/image/vegetableMarket/41.png'
+  imageName: './image/vegetableMarket/41.png'
 
 },
 {
@@ -303,7 +303,7 @@ const lunch = [
 {
   japaneseName: '青葱　大　800ｇ  ',
   EnglishName :  '2ta use vayo ta seto negi',
-  imageName: '/image/vegetableMarket/46.png'
+  imageName: './image/vegetableMarket/46.png'
 
 },{
   japaneseName: '南瓜　個 ',
@@ -632,5 +632,6 @@ lunch.forEach((lunch)=>{
 
 
 document.querySelector('.js-lunch-check').innerHTML= html;
+
 
 

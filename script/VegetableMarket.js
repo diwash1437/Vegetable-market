@@ -18,15 +18,15 @@ const lunch = [
 
 },
 {
-  japaneseName: '水菜　１Ｐ ',
-  EnglishName :  'Bean sprout and onion set',
+  japaneseName: '水菜　１Ｐ',
+  EnglishName :  'みずな/ Mizuna 1 P (contain 1 pack) / Mizuna 1 pack ✅',
   imageName: './image/vegetableMarket/4.png',
   
 
 },
 {
   japaneseName: '赤パプリカ　個 ',
-  EnglishName :  'Garlic chives',
+  EnglishName :  '（あかパプリカ） / Aka Papurika 1 ko (contain 1 piece) / Red paprika (red bell pepper) 1 piece',
   imageName: './image/vegetableMarket/5.png'
 
 },
@@ -38,7 +38,7 @@ const lunch = [
 },
 {
   japaneseName: '黄パプリカ　個 ',
-  EnglishName :  'Tossed egg',
+  EnglishName :  '（きパプリカ） / Ki Papurika 1 ko (contain 1 piece) / Yellow paprika (yellow bell pepper) 1 piece',
   imageName: './image/vegetableMarket/7.png'
 
 },
@@ -50,43 +50,43 @@ const lunch = [
 },
 {
   japaneseName: 'むき玉ねぎ　１Ｐ',
-  EnglishName :  'Onion',
+  EnglishName :  'むきたまねぎ / Muki tamanegi 1 P (contain 1 pack)',
   imageName: './image/vegetableMarket/9.png'
 
 },
 {
   japaneseName: 'しめじ　１Ｐ ',
-  EnglishName :  'Wasabi',
+  EnglishName :  'Shimeji 1 P (contain 1 pack)',
   imageName: './image/vegetableMarket/10.png'
 
 },
 {
   japaneseName: '万願寺唐辛子　緑　Kg ',
-  EnglishName :  'Red cabbage and carrot mix',
+  EnglishName :  'まんがんじとうがらし）緑 / Manganji tōgarashi midori (contain per Kg) / Green Manganji pepper (per Kg)',
   imageName: './image/vegetableMarket/11.png'
 
 },
 {
   japaneseName: '胡瓜　本 ',
-  EnglishName :  'Lunch dressing',
+  EnglishName :  'きゅうり/ Kyūri 1 hon (contain 1 piece)',
   imageName: './image/vegetableMarket/12.png'
 
 },
 {
   japaneseName: '人参　Kg ',
-  EnglishName :  'carrot',
+  EnglishName :  'にんじん/ Ninjin(contain per Kg)',
   imageName: './image/vegetableMarket/13.png'
 
 },
 {
   japaneseName: 'カット葱　500ｇ　１Ｐ ',
-  EnglishName :  'Onion small cut negi',
+  EnglishName :  'カットねぎ/ Katto negi 500g 1P(contain 1 pack)',
   imageName: './image/vegetableMarket/14.png'
 
 },
 {
   japaneseName: '椎茸　１Ｐ　８入 ',
-  EnglishName :  'Shiitake mushrooms – 1 pack (contains 8 pieces)',
+  EnglishName :  'しいたけ/Shiitake mushrooms – 1 pack(contains 8 pieces)',
   imageName: './image/vegetableMarket/15.png'
 
 },
@@ -98,13 +98,13 @@ const lunch = [
 },
 {
   japaneseName: '椎茸　１Ｐ　６入 ',
-  EnglishName :  'Shiitake mushrooms – 1 pack (contains 6 pieces)',
+  EnglishName :  'しいたけ/ Shiitake mushrooms – 1 pack(contains 6 pieces)',
   imageName: './image/vegetableMarket/17.png'
 
 },
 {
   japaneseName: '舞茸　1Ｐ ',
-  EnglishName :  'Maitake mushrooms – 1 pack',
+  EnglishName :  'まいたけ/Maitake mushrooms – 1 pack',
   imageName: './image/vegetableMarket/18.png'
 
 },
@@ -134,32 +134,32 @@ const lunch = [
 },
 {
   japaneseName: '緑　ミニトマト　１Ｐ ',
-  EnglishName :  'Mini tomato 1 P (contain 1 pack)',
+  EnglishName :  'みどりミニトマト/Mini tomato 1 P (contain 1 pack)',
   imageName: './image/vegetableMarket/23.png'
 
 },
 {
   japaneseName: '大根　本 ',
-  EnglishName :  'Daikon 1 hon (contain 1 piece)',
+  EnglishName :  'だいこん/Daikon 1 hon (contain 1 piece)',
   imageName: './image/vegetableMarket/24.png'
 
 },
 {
   japaneseName: '茄子　５本入',
-  EnglishName :  'Nasu 1 P (contain 5 hon(5 piece)',
+  EnglishName :  'なす/Nasu 1 P(contain 5 hon(5 piece)',
   imageName: './image/vegetableMarket/25.png'
 
 },
 {
   japaneseName: '白葱　１束　中国 ',
-  EnglishName :  'Shiro-negi 1 taba (contain 1 bunch) / White leek / Green onion 1 bunch – China',
+  EnglishName :  'しろねぎ/Shiro-negi 1 taba (contain 1 bunch) / White leek / Green onion 1 bunch – China',
   imageName: './image/vegetableMarket/26.png',
   
 
 },
 {
   japaneseName: '人参　中国　Kg',
-  EnglishName :  'Ninjin (contain per Kg) / Carrot (per Kg) – China',
+  EnglishName :  'にんじん/Ninjin (contain per Kg) / Carrot (per Kg) – China',
   imageName: './image/vegetableMarket/27.png'
 
 },
@@ -171,19 +171,19 @@ const lunch = [
 },
 {
   japaneseName: 'ニラ　１束 ',
-  EnglishName :  'Minced cutlet',
+  EnglishName :  'にら/ Nira 1 taba(contain 1 bunch) / Chinese chives 1 bunch',
   imageName: './image/vegetableMarket/29.png'
 
 },
 {
   japaneseName: 'アンディーブ　個 ',
-  EnglishName :  'Croquette (main deep fridge ma cha)',
+  EnglishName :  'Andību 1 ko (contain 1 piece) / Endive 1 piece',
   imageName: './image/vegetableMarket/30.png'
 
 },
 {
   japaneseName: 'れんこん　Kg',
-  EnglishName :  'Minced cutlet, croquette sauce',
+  EnglishName :  'renkon per kg',
   imageName: './image/vegetableMarket/31.png'
 
 },
@@ -195,7 +195,7 @@ const lunch = [
 },
 {
   japaneseName: '紅心大根　個 ',
-  EnglishName :  'Salt',
+  EnglishName :  'こうしんだいこん/ Kōshin daikon 1 ko(contain 1 piece) / Red-heart radish 1 piece',
   imageName: './image/vegetableMarket/33.png'
 
 },
@@ -207,13 +207,13 @@ const lunch = [
 },
 {
   japaneseName: 'レッドキャベツ　個 ',
-  EnglishName :  'Bento mashed potatoes',
+  EnglishName :  'Reddo kyabetsu 1 ko(contain 1 piece) / Red cabbage 1 piece',
   imageName: './image/vegetableMarket/35.png'
 
 },
 {
   japaneseName: '男爵芋 ｋｇ',
-  EnglishName :  'Makanai potato',
+  EnglishName :  'Makanai potato/ だんしゃくいも） / Danshaku imo (contain per Kg)',
   imageName: './image/vegetableMarket/36.png'
 
 },
@@ -225,24 +225,24 @@ const lunch = [
 },
 {
   japaneseName: 'ロメインレタス　個 ',
-  EnglishName :  'Banya Kawdar ko lagi sag',
+  EnglishName :  'ろめいんレタス/ Romein retasu 1 ko (contain 1 piece)',
   imageName: './image/vegetableMarket/banyakawdarsag.png'
 
 },
 {
     japaneseName: '白菜　1個 ',
-    EnglishName: '',
+    EnglishName: 'はくさい/ Hakusai 1 ko (contain 1 piece)/Chinese cabbage 1 piece',
     imageName: './image/vegetableMarket/38.png'
 },
 {
   japaneseName: 'ヤングコーン ',
-  EnglishName :  'Banya Kawdar ko lagi sag',
+  EnglishName :  'Yangu kōn (contain per piece) / Baby corn (per piece)',
   imageName: './image/vegetableMarket/39.png'
 
 },
 {
   japaneseName: 'トレビス　個 ',
-  EnglishName :  'Banya Kawdar ko lagi sag',
+  EnglishName :  'Torebisu 1 ko (contain 1 piece) / Treviso / Radicchio 1 piece',
   imageName: './image/vegetableMarket/40.png'
 
 },
@@ -266,8 +266,8 @@ const lunch = [
 
 },
 {
-  japaneseName: '黄　ミニトマト　１Ｐ NEW',
-  EnglishName :  'SODNE 2TA YELLOW SYANO TOMATO',
+  japaneseName: '黄　ミニトマト　１Ｐ NEW (sodne nin san lai)',
+  EnglishName :  'きミニトマト/ Ki mini tomato 1 P (contain 1 pack) / Yellow mini tomatoes 1 pack',
   imageName: './image/vegetableMarket/41.png'
 
 },
@@ -632,6 +632,7 @@ lunch.forEach((lunch)=>{
 
 
 document.querySelector('.js-lunch-check').innerHTML= html;
+
 
 
 
